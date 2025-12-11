@@ -25,10 +25,10 @@ Our first tool, a Chrome browser extension that intercepts and analyzes Solana t
 
 ## Our Approach
 
-- **Deterministic Detection** — No ML black boxes. Every rule is auditable and predictable.
-- **Privacy First** — All analysis happens locally. We don't collect user data.
-- **Open Source** — Security tools should be transparent and verifiable.
-- **Practical Focus** — We build tools that solve real problems, not theoretical ones.
+- **Deterministic Detection:**  No ML black boxes. Every rule is auditable and predictable.
+- **Privacy First:**  All analysis happens locally. We don't collect user data.
+- **Open Source:**  Security tools should be transparent and verifiable.
+- **Practical Focus:**  We build tools that solve real problems, not theoretical ones.
 
 ## Research Areas
 
@@ -39,9 +39,9 @@ Our first tool, a Chrome browser extension that intercepts and analyzes Solana t
 
 ## Get Involved
 
-- **Report Vulnerabilities** — Found an attack pattern we should know about? Open an issue.
-- **Contribute** — PRs welcome. Check individual repo contribution guidelines.
-- **Research Collaboration** — Reach out for security research partnerships.
+- **Report Vulnerabilities:**  Found an attack pattern we should know about? Open an issue.
+- **Contribute:**  PRs welcome. Check individual repo contribution guidelines.
+- **Research Collaboration:**  Reach out for security research partnerships.
 
 ## Links
 
