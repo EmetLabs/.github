@@ -45,4 +45,4 @@ Our first tool, a Chrome browser extension that intercepts and analyzes Solana t
 
 ## Links
 
-- GitHub: [github.com/EmetLabs](https://github.com/EmetLabs)
+- Website: [emet-site](https://emet-site.vercel.app/)
